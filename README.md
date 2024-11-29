@@ -1,5 +1,5 @@
 
-# **Giải Bài Toán Travelling Salesman bằng Thuật Toán Simulated Annealing**
+# **Giải Bài Toán "Travelling Salesman Problem (TSP)" bằng Giải thuật "Simulated Annealing"**
 
 Đây là ứng dụng giải bài toán Travelling Salesman Problem (TSP) sử dụng thuật toán Simulated Annealing, được xây dựng UI từ thư viện PyQt6
 
@@ -15,16 +15,14 @@
 - Trong Visual Studio Code, vào **Extensions** (phím tắt: `Ctrl+Shift+X`), tìm **Python** và nhấn **Install**.
 
 ### **Bước 3: Cài đặt các thư viện cần thiết**
-Mở **Terminal** (phím tắt: `Ctrl+\``) và nhập các lệnh sau để cài đặt PyQt6 và các công cụ liên quan:
+
 ```
 pip install pyqt6
 ```
 
 ### **Bước 4: Chạy chương trình**
 - Chạy file `main.py`:
-  ```
-  python main.py
-  ```
+
 
 ---
 
@@ -32,7 +30,7 @@ pip install pyqt6
 
 ### **Chế độ Tạo Điểm**
 1. **Thêm Điểm Thủ Công (Manual Points)**:
-   - Chọn chế độ **Manual Points** để tạo các điểm bằng cách nhấp chuột vào giao diện.
+   - Chế độ **Manual Points** để tạo các điểm **bằng cách nhấp chuột** vào giao diện.
    - Bạn cũng có thể nhập tọa độ cụ thể thông qua hộp thoại **Add**.
 
 2. **Tạo Điểm Ngẫu Nhiên (Random Points)**:
@@ -72,4 +70,4 @@ pip install pyqt6
 ---
 
 ## **Cảm ơn**
-Cảm ơn bạn đã sử dụng ứng dụng của chúng tôi. Ứng dụng đã đạt được mục tiêu giải bài toán TSP, nhưng vẫn còn nhiều hạn chế về giao diện người dùng và thuật toán chưa được tối ưu hóa hoàn toàn. Chúng tôi hy vọng sẽ tiếp tục nâng cấp và cải thiện ứng dụng để đáp ứng các nhu cầu thực tế trong tương lai.
+Cảm ơn bạn đã sử dụng ứng dụng của chúng tôi. Ứng dụng đã đạt được mục tiêu giải bài toán TSP bằng giải thuật Simulated Annealing, nhưng vẫn còn nhiều hạn chế về giao diện người dùng và thuật toán chưa được tối ưu hóa hoàn toàn. Chúng tôi hy vọng sẽ tiếp tục nâng cấp và cải thiện ứng dụng để đáp ứng các nhu cầu thực tế trong tương lai.
