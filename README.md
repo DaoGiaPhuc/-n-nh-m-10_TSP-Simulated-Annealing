@@ -1,7 +1,7 @@
 
 # **Giải Bài Toán Travelling Salesman bằng Thuật Toán Simulated Annealing**
 
-Đây là ứng dụng giải bài toán Travelling Salesman Problem (TSP) sử dụng thuật toán Simulated Annealing, được phát triển bằng Python với giao diện hiện đại.
+Đây là ứng dụng giải bài toán Travelling Salesman Problem (TSP) sử dụng thuật toán Simulated Annealing, được xây dựng UI từ thư viện PyQt6
 
 ---
 
