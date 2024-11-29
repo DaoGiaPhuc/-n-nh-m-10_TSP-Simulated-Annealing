@@ -18,12 +18,9 @@
 Mở **Terminal** (phím tắt: `Ctrl+\``) và nhập các lệnh sau để cài đặt PyQt6 và các công cụ liên quan:
 ```
 pip install pyqt6
-pip install pyqt6-tools
-pip install pyqt5designer
 ```
 
 ### **Bước 4: Chạy chương trình**
-- Mở terminal tại thư mục chứa mã nguồn.
 - Chạy file `main.py`:
   ```
   python main.py
