@@ -67,7 +67,7 @@ pip install pyqt6
 ## **Công Nghệ Sử Dụng**
 - **IDE**: Visual Studio Code
 - **Ngôn ngữ**: Python
-- **Giao diện**: PyQt6, PyQt5Designer
+- **Giao diện**: PyQt6
 
 ---
 
